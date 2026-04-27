@@ -96,7 +96,7 @@ easypy/
 
 ```json
 {
-  "text": "方序 语文 默写"
+  "text": "语文 默写"
 }
 ```
 
@@ -105,7 +105,6 @@ easypy/
 ```json
 {
   "words": [
-    { "word": "方序", "pinyin": ["fāng", "xù"] },
     { "word": "语文", "pinyin": ["yǔ", "wén"] },
     { "word": "默写", "pinyin": ["mò", "xiě"] }
   ]
